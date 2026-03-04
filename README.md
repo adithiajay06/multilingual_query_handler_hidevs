@@ -19,18 +19,19 @@ It uses:
 ## 🛠️ Setup Instructions
 
 1. Clone the repository:
-   git clone https://github.com/YOUR_USERNAME/multilingual_query_handler_hidevs.git
+   git clone 
+   https://github.com/adithiajay06/multilingual_query_handler_hidevs
 
-2. Navigate to project folder:
+3. Navigate to project folder:
    cd multilingual_query_handler_hidevs
 
-3. Install dependencies:
+4. Install dependencies:
    pip install -r requirements.txt
 
-4. Run the application:
+5. Run the application:
    python app.py
 
-5. Open browser:
+6. Open browser:
    http://127.0.0.1:5000
 
 ---
@@ -56,3 +57,4 @@ YouTube Link: https://youtu.be/co-wv0Z1UjE
 Adithi  
 B.Tech CSE (AI & ML)
 Reva University
+
